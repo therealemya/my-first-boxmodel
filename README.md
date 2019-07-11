@@ -1,4 +1,4 @@
-# My First Navbar
+# My First Boxmodel
 
 ### Part 1 - Clone the project
 * Begin by _forking_ this project into a personal repository.
