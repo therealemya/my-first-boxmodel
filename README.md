@@ -8,7 +8,7 @@
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
 ### Part 2 - Creating the navbar
-* Research the _box model_ patterns by visiting the [w3 school tutorial on navbars](https://www.w3schools.com/css/css_boxmodel.asp).
+* Research the _box model_ patterns by visiting the [w3 school tutorial on boxmodels](https://www.w3schools.com/css/css_boxmodel.asp).
 * Modify the `index.html` file by creating a box model.
 
 ### Part 3 - Submit Assignment
