@@ -7,7 +7,7 @@
 * Clone the repository from **your account** into the `~/dev` directory.
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
-### Part 2 - Creating the navbar
+### Part 2 - Creating the boxmodel
 * Research the _box model_ patterns by visiting the [w3 school tutorial on boxmodels](https://www.w3schools.com/css/css_boxmodel.asp).
 * Modify the `index.html` file by creating a box model.
 
